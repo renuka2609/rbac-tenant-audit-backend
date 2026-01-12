@@ -8,25 +8,4 @@ This module provides the security foundation for the system:
 
 ---
 
-## Folder Structure
-backend
-│
-├── app.js
-├── server.js
-├── package.json
-│
-├── middleware
-│   ├── auth.js
-│   ├── rbac.js
-│   └── tenantGuard.js
-│
-├── models
-│   └── auditLogModel.js
-│
-├── services
-│   └── auditLogService.js
-│
-└── routes
-    └── testRoutes.js
-
 
